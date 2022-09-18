@@ -7,8 +7,10 @@
 ### Sistemos paskirtis
 
 Projekto tikslas - sukurti paslaugų tiekimo / naudojimo platformą, kuri leidžią:
-• verslui reklamuoti savo teikiamas paslaugas, valdyti užsakymus.
-• vartotojui ieškoti jį dominančių paslaugų, užsakyti jas bei palikti atsiliepimus
+
+- verslui reklamuoti savo teikiamas paslaugas, valdyti užsakymus.
+- vartotojui ieškoti jį dominančių paslaugų, užsakyti jas bei palikti atsiliepimus
+
 Verslas, norintis naudotis šia platforma ir reklamuoti savo teikiamas paslaugas turi susikurti verslo profilį, užregistruoti savo teikiamas paslaugas užpildant, paslaugos registravimo formą. Po administratoriaus patvirtinimo, paslauga tampa viešai prieinama ir klientai/vartotojai gali peržiūrėti paslaugos informaciją (įkainius, aprašymą, atsiliepimus, užimtumą) bei atlikti rezervaciją.
 
 ### Funkciniai reikalavimai
